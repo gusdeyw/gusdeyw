@@ -165,6 +165,18 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
           © {new Date().getFullYear()}
           {siteConfig.name}. All rights reserved.
         </p>
+        <p class="text-xs text-gray-400 dark:text-gray-500 mt-1">
+          Design inspired by{" "}
+          <a
+            href="https://github.com/RyanFitzgerald/devportfolio"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="underline hover:text-[var(--accent-color)] transition-colors duration-300"
+            style={`--accent-color: ${siteConfig.accentColor}`}
+          >
+            Ryan Fitzgerald's devportfolio
+          </a>
+        </p>
       </div>
     </div>
   </div>

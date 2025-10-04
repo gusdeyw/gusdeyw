@@ -27,13 +27,13 @@ export const siteConfig = {
     //   link: "#", // ⚠️ NEEDED: Project URL or demo link (optional)
     //   skills: ["Laravel", "Bootstrap", "jQuery", "MySQL"],
     // },
-    {
-      name: "BVR Group Asia - Multi-Company Website Management",
-      description:
-        "Full Stack development controlling 18 company websites, maintaining performance and creating new company profile websites as Webmaster.",
-      link: "", // ⚠️ NEEDED: Company website URL (optional)
-      skills: ["PHP", "Laravel", "WordPress", "Tailwind", "React.js", "Firebase"],
-    },
+    // {
+    //   name: "BVR Group Asia - Multi-Company Website Management",
+    //   description:
+    //     "Full Stack development controlling 18 company websites, maintaining performance and creating new company profile websites as Webmaster.",
+    //   link: "", // ⚠️ NEEDED: Company website URL (optional)
+    //   skills: ["PHP", "Laravel", "WordPress", "Tailwind", "React.js", "Firebase"],
+    // },
   ],
   experience: [
     {
