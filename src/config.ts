@@ -14,6 +14,13 @@ export const siteConfig = {
   skills: ["PHP", "Golang", "Node.js", "Laravel", "Vue.js", "React.js", "MySQL/MariaDB", "Docker", "Tailwind CSS", "Linux", "Git", "WordPress"],
   projects: [
     {
+      name: "S-Console",
+      description:
+        "A lightweight, customizable JavaScript console library for web applications. Features built-in commands, multiple build formats (ESM, CJS, UMD, IIFE), and TypeScript support with customizable themes and fonts.",
+      link: "https://github.com/gusdeyw/s-console",
+      skills: ["TypeScript", "Vite", "UnoCSS", "JavaScript"],
+    },
+    {
       name: "Elvoiz - Invoice Management Expert",
       description:
         "Smart SaaS application handling invoices with template creation, editing, value adding, and advanced scheduling for professional businesses. Currently under development with planned release in Q1 2026.",
