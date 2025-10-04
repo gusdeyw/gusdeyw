@@ -17,7 +17,7 @@ export const siteConfig = {
       name: "S-Console",
       description:
         "A lightweight, customizable JavaScript console library for web applications. Features built-in commands, multiple build formats (ESM, CJS, UMD, IIFE), and TypeScript support with customizable themes and fonts.",
-      link: "https://github.com/gusdeyw/s-console",
+      link: "https://gusdeyw.github.io/s-console/",
       skills: ["TypeScript", "Vite", "UnoCSS", "JavaScript"],
     },
     {
