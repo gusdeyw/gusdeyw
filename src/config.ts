@@ -27,6 +27,48 @@ export const siteConfig = {
       link: "#", // ⚠️ NEEDED: Project URL when available
       skills: ["Golang", "Vue.js", "MySQL", "Docker"],
     },
+    {
+      name: "HTMLEmail - Go Package",
+      description:
+        "A powerful and flexible Go package for generating dynamic HTML email content from templates. Features struct-based template population, multiple placeholder styles, HTML table generation, and CSS integration with comprehensive error handling.",
+      link: "https://github.com/gusdeyw/htmlemail",
+      skills: ["Golang", "HTML", "Email Templates", "Go Modules"],
+    },
+    {
+      name: "PGBridge-Go",
+      description:
+        "A lightweight, production-ready payment gateway bridge built with Go. Integrates with Midtrans and supports secure payment flows, webhooks, QR code generation, and Docker deployment with Swagger API documentation.",
+      link: "https://github.com/gusdeyw/pgbridge-go",
+      skills: ["Golang", "Fiber", "Docker", "Payment Gateway", "Swagger", "Midtrans"],
+    },
+    {
+      name: "Laravel API Sanctum Boilerplate",
+      description:
+        "Comprehensive Laravel API boilerplate with Sanctum authentication, featuring user management, post CRUD operations, weather API integration, email system, and comprehensive testing. Built with Laravel 12 and includes 94+ tests with 98.6% pass rate.",
+      link: "https://github.com/gusdeyw/laravel-api-sanctum-boilerplate",
+      skills: ["Laravel", "PHP", "Sanctum", "MySQL", "Redis", "PHPUnit", "API"],
+    },
+    {
+      name: "Spring Vacancy Management",
+      description:
+        "Java Spring Boot application for vacancy and candidate management with intelligent ranking system. Features MongoDB integration, Docker deployment, comprehensive REST API, and smart candidate scoring based on configurable criteria.",
+      link: "https://github.com/gusdeyw/spring-vacancy",
+      skills: ["Java", "Spring Boot", "MongoDB", "Docker", "Maven", "REST API"],
+    },
+    {
+      name: "Litepicker (Enhanced Fork)",
+      description:
+        "Enhanced fork of the lightweight date range picker with no dependencies. Added 'Today' button functionality to calendar footer UI, maintaining compatibility with multiple browsers and mobile devices while supporting plugins and keyboard accessibility.",
+      link: "https://github.com/gusdeyw/Litepicker",
+      skills: ["TypeScript", "JavaScript", "SCSS", "Date Picker", "Frontend"],
+    },
+    {
+      name: "ElvDoc - Document Management Library",
+      description:
+        "Go package for reading, writing, and manipulating .elv files, specifically designed for invoice management in the Elvoiz application. Provides easy-to-use API for parsing and generating structured document data with comprehensive file operations.",
+      link: "https://github.com/elvoiz-enterprises/elvdoc",
+      skills: ["Golang", "File Processing", "Document Management", "API Design"],
+    },
     // {
     //   name: "University Syllabus Management System",
     //   description:
