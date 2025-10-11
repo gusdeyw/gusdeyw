@@ -40,9 +40,42 @@
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white&style=flat-square)
 ![Bun](https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df&style=flat-square)
 
+## 📊 GitHub Statistics
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gusdeyw&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdeyw&layout=compact&theme=radical" alt="langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gusdeyw&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdeyw&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
+<!-- <p align="left">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=gusdeyw&theme=radical" alt="GitHub Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gusdeyw&theme=radical&layout=compact" alt="WakaTime Stats" height="150"/>
+</p> -->
+
+### 📈 Additional Metrics
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusdeyw&theme=radical" alt="Profile Summary"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gusdeyw&theme=radical" alt="Repos per Language" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gusdeyw&theme=radical" alt="Most Commit Language" height="150"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gusdeyw&theme=radical" alt="Stats" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gusdeyw&theme=radical&utcOffset=8" alt="Productive Time" height="150"/>
+</p>
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=gusdeyw&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+### 📊 Contribution Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gusdeyw&theme=redical&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ## 🏆 Holopin Badges
