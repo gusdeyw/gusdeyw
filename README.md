@@ -45,6 +45,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdeyw&layout=compact&theme=radical" alt="langs" height="150"/>
 </p>
 
+## 🏆 Holopin Badges
+
+[![An image of @gusdeyw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gusdeyw)](https://holopin.io/@gusdeyw)
+
 ## 💼 Professional Experience
 
 **Senior Developer** @ **Cakrasoft Hotel System** *(2022 - Present)*
