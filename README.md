@@ -13,7 +13,7 @@
 5. ElvDoc Library : 🟢 Golang | � File Processing | 🏗 Document Management
 ```
 
->💻 "Love to create amazing applications, helping people to know the limitless technology around the world" - Gusde Widnyana
+>💻 "Seek questions, ship usefulness. — Web & app developer focused on making work simpler." - Gusde Widnyana
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
