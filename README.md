@@ -19,9 +19,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Python](https://img.shields.io)
-![Django](https://img.shields.io)
-![Odoo](https://img.shields.io)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
@@ -37,12 +34,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=flat-square)
-![WSL](https://img.shields.io)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
 ![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?logo=astro&logoColor=white&style=flat-square)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white&style=flat-square)
 ![Bun](https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df&style=flat-square)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![WSL](https://img.shields.io/badge/WSL-0078D6?logo=windows&logoColor=white&style=flat-square)
+
 ## 📊 GitHub Statistics
 
 <p align="left">
