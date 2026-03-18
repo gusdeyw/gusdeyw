@@ -84,7 +84,13 @@
 
 ## 💼 Professional Experience
 
-**Senior Developer** @ **Cakrasoft Hotel System** *(2022 - Present)*
+**Frontend Developer** @ **HashMicro** *(2026 – Present)*
+- Translate high-fidelity **Figma** designs into clean, responsive, and reusable **Vue.js** components.
+- Collaborate with **System Analysts** and **QA** teams to identify, troubleshoot, and resolve technical bugs.
+- Execute development tasks and feature implementations under the direct guidance of the **Team Leader**.
+- Manage full-cycle frontend workflows and team communications in a **remote (WFH)** environment.
+
+**Senior Developer** @ **Cakrasoft Hotel System** *(2022 - 2026)*
 - Lead full-stack development using Golang and Vue 3.js
 - Manage database architecture (MySQL, MariaDB, PostgreSQL)  
 - Handle cloud deployments with Docker, Nginx, and Linux on DigitalOcean
